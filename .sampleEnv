@@ -1,0 +1,15 @@
+
+MONGO_URI = mongodb+srv://utsavshah972:utsav_007@cluster0.qqfdixh.mongodb.net/
+
+JWT_SECRET=djgjkdshbgjkhfnjksdfhbnsjkdfsdhjfk
+
+ADMIN_SECRET_KEY=sample admin kjey
+
+NODE_ENV = DEVELOPMENT
+
+CLIENT_URL =frontend url
+
+
+CLOUDINARY_CLOUD_NAME=your cloud name 
+CLOUDINARY_API_KEY=your cloud api key
+CLOUDINARY_API_SECRET=your cloud secret
